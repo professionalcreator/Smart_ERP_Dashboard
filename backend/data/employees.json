@@ -1,0 +1,7 @@
+[
+  { "id": "1", "name": "Sophia Sterling", "role": "UI/UX Designer", "dept": "Design", "status": "Active" },
+  { "id": "2", "name": "Liam Sterling", "role": "Frontend Architect", "dept": "Engineering", "status": "Active" },
+  { "id": "3", "name": "Chloe Vance", "role": "Product Manager", "dept": "Product", "status": "Active" },
+  { "id": "4", "name": "James Mercer", "role": "DevOps Lead", "dept": "Engineering", "status": "On Leave" },
+  { "id": "5", "name": "Mia Thorne", "role": "Brand Strategist", "dept": "Marketing", "status": "Active" }
+]

@@ -1,0 +1,8 @@
+[
+  { "id": "1", "name": "Premium Office Desks", "category": "Furniture", "stock": 12, "minStock": 5 },
+  { "id": "2", "name": "Ergonomic Mesh Chairs", "category": "Furniture", "stock": 4, "minStock": 8 },
+  { "id": "3", "name": "4K UltraWide Monitors", "category": "Electronics", "stock": 18, "minStock": 6 },
+  { "id": "4", "name": "Mechanical Keyboards", "category": "Electronics", "stock": 6, "minStock": 10 },
+  { "id": "5", "name": "USB-C Charging Hubs", "category": "Accessories", "stock": 24, "minStock": 15 },
+  { "id": "6", "name": "Rose Gold Desk Pads", "category": "Accessories", "stock": 2, "minStock": 5 }
+]

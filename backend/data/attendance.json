@@ -1,0 +1,14 @@
+{
+  "roster": [
+    { "id": "1", "name": "Sophia Sterling", "status": "Present", "time": "08:52 AM" },
+    { "id": "2", "name": "Liam Sterling", "status": "Present", "time": "08:58 AM" },
+    { "id": "3", "name": "Chloe Vance", "status": "Late", "time": "09:15 AM" },
+    { "id": "4", "name": "James Mercer", "status": "Absent", "time": "-" },
+    { "id": "5", "name": "Mia Thorne", "status": "Present", "time": "08:45 AM" }
+  ],
+  "logs": [
+    { "id": "1", "text": "Mia Thorne checked in at 08:45 AM", "type": "info" },
+    { "id": "2", "text": "Sophia Sterling checked in at 08:52 AM", "type": "info" },
+    { "id": "3", "text": "Chloe Vance marked LATE at 09:15 AM", "type": "warn" }
+  ]
+}
